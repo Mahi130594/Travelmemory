@@ -1,4 +1,13 @@
-# Travel Memory
+# TravelMemory MERN Stack Deployment 
+## Prerequisites
+ - Set up the backend running on Node.js
+ - Configure the frontend built with React
+ - Establish communication between frontend and backend
+ - Deploy the application on an EC2 instance
+ - Scale using multiple EC2 instances and load balancing
+ - Configure a custom domain via Cloudflare
+
+
 
 `.env` file to work with the backend after creating a database in mongodb: 
 
