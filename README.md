@@ -1,7 +1,12 @@
 # TravelMemory MERN Stack Deployment 
+## Introduction
+
+TravelMemory is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to capture and share travel memories. This documentation details the process of deploying the TravelMemory app on an AWS EC2 instance, configuring reverse proxy with NGINX, setting up load balancing, and attaching a custom domain via Cloudflare.
+
+GitHub Repository: 
 ## Prerequisites
- - Set up the backend running on Node.js
- - Configure the frontend built with React
+ - Launch & Set Up EC2 Instance
+ - Install Dependencies - Node.js, MongoDB client, Git, and Nginx
  - Establish communication between frontend and backend
  - Deploy the application on an EC2 instance
  - Scale using multiple EC2 instances and load balancing
