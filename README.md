@@ -67,11 +67,10 @@ GitHub Repository: https://github.com/Mahi130594/Travelmemory
 
 
 
-   - Output:
-     
-     ![image](https://github.com/user-attachments/assets/2c4bf273-d1ab-4393-bd84-e34e09cf1daf)
-     ![image](https://github.com/user-attachments/assets/172b057f-cc52-4f11-919c-7a440d9a9633)
-     ![image](https://github.com/user-attachments/assets/df561744-1876-4d32-9d74-d6bda458e75b)
+  ### Output:
+  ![image](https://github.com/user-attachments/assets/2c4bf273-d1ab-4393-bd84-e34e09cf1daf)
+  ![image](https://github.com/user-attachments/assets/172b057f-cc52-4f11-919c-7a440d9a9633)
+  ![image](https://github.com/user-attachments/assets/df561744-1876-4d32-9d74-d6bda458e75b)
 
      
    ## 4. Domain Setup with Cloudflare:
